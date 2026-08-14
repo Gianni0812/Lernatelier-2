@@ -1,0 +1,42 @@
+# Lern-Periode 5 / 6 / 7 / 8
+
+- Name: Gianluca Caruso
+- Zeitraum: 14.08.2026 bis tt.mm.2026
+
+## Grob-Planung
+
+### Noten
+> Mit meinen Informatik Noten stehe ich gut. Ich habe in der Regel gute Noten und werde dies weiterhin so machen.
+
+### Veränderungen
+> Ich möchte weniger von der KI abschreiben und das selber denken fördern.
+
+### Projekte / neue Technologien
+> Ich möchte Softwares erstellen, die mir auch im altag oder für die Bewerbungen helfen. 
+
+### Generelle Ziele
+> Meine HTML/CSS/JS, C# und Python kenntnise verbessern und mein Sprachniveau auf ein neues Level bringen. 
+
+## Tagesplanungen
+
+### Planung 14.08.2026
+
+- [ ] HTML Grundstuktur erstellen(Homepage, Über-Mich, ect.)
+- [ ] HTML Grundstruktur mit CSS grob Designen
+- [ ] Buttons mit hilfe von JS verbinden
+- [ ] Github verlinken
+
+(Heute habe ich... (50-100 Wörter))
+
+
+### Planung 23.08.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [X] Viertes AP
+
+(Heute habe ich... (50-100 Wörter))
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (100-150 Wörter))
