@@ -17,6 +17,8 @@
 ### Generelle Ziele
 > Meine HTML/CSS/JS, C# und Python kenntnise verbessern und mein Sprachniveau auf ein neues Level bringen. 
 
+Ich möchte ein Portfolio mit HTML, CSS und JavaScript erstellen, das ich im Juni für meine Bewerbungen verwenden kann. Es soll wichtige Bereiche wie eine Homepage, Informationen über mich, meine Fähigkeiten, meine Ausbildung, meine Hobbys und meine Projekte enthalten. Meine drei besten Projekte werde ich direkt auf der Website präsentieren. Für die restlichen Projekte werde ich mein GitHub-Profil verlinken.
+
 ## Tagesplanungen
 
 ### Planung 14.08.2026
