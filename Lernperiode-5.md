@@ -1,4 +1,4 @@
-# Lern-Periode 5 / 6 / 7 / 8
+# Lern-Periode 5 
 
 - Name: Gianluca Caruso
 - Zeitraum: 14.08.2026 bis tt.mm.2026
