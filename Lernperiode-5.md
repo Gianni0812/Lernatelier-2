@@ -6,7 +6,7 @@
 ## Grob-Planung
 
 ### Noten
-> Mit meinen Informatik Noten stehe ich gut. Ich habe in der Regel gute Noten und werde dies weiterhin so machen.
+> Mit meinen Informatik Noten stehe ich gut. Ich habe in der Regel gute Noten und werde dies weiterhin so machen. 
 
 ### Veränderungen
 > Ich möchte weniger von der KI abschreiben und das selber denken fördern.
