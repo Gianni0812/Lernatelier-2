@@ -31,14 +31,21 @@ Ich möchte ein Portfolio mit HTML, CSS und JavaScript erstellen, das ich im Jun
 Heute habe ich die HTML-Grobstruktur meines Bewerbungsportfolios fertiggestellt und meine Projekte sowie mein GitHub-Profil verlinkt. Danach habe ich mit CSS begonnen. Ich habe gelernt, wie Selektoren, Eigenschaften und Werte funktionieren. Ausserdem kann ich Sections mit `display: none` verstecken und mit einer `active`-Klasse anzeigen. Mit Flexbox habe ich den Titel und die Navigation nebeneinander angeordnet und mit `space-between` verteilt.
 
 
-### Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+### Planung 21.08.2026
 
-- [ ] HTML Grundstruktur mit CSS grob Designen
-- [ ] Buttons mit hilfe von JS verbinden
-- [ ] Bilder Hinzufügen
+- [x] HTML Grundstruktur mit CSS grob Designen
+- [x] Buttons mit hilfe von JS verbinden
+- [x] Bilder Hinzufügen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich die Startseite meines Portfolios fertiggestellt und für verschiedene Bildschirmgrössen optimiert. Ich habe mein freigestelltes Bild eingefügt, einen animierten Leuchteffekt erstellt und den Startseitentext verbessert. Ausserdem habe ich mit JavaScript die Navigation umgesetzt: Beim Anklicken wird der passende Bereich eingeblendet, der vorherige ausgeblendet und der aktive Navigationspunkt markiert. Zum Schluss habe ich die Buttons auf der Startseite mit den entsprechenden Bereichen verlinkt.
+
+### Planung 28.08.2026
+
+- [ ] About und Projekt mit CSS Designen
+- [ ] Contact section erstellen
+- [ ] email mit contact verbinden, so dass Man mich kontaktieren kann.
+
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
