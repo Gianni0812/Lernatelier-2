@@ -41,11 +41,15 @@ Heute habe ich die Startseite meines Portfolios fertiggestellt und für verschie
 
 ### Planung 28.08.2026
 
-- [ ] About und Projekt mit CSS Designen
+- [x] About und Projekt mit CSS Designen
 - [ ] Contact section erstellen
 - [ ] email mit contact verbinden, so dass Man mich kontaktieren kann.
 
+### Planung 04.09.2026
 
+- [ ] Projekt mit CSS Designen
+- [ ] Contact section erstellen
+- [ ] email mit contact verbinden, so dass Man mich kontaktieren kann.
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
