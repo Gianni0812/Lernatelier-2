@@ -53,5 +53,11 @@ Heute habe ich die Startseite meines Portfolios fertiggestellt und für verschie
 
 Heute habe ich die Projektseite meines Portfolios weiter verbessert und gestaltet. Ich habe die drei Projekte übersichtlicher in Karten angeordnet, die Bilder bzw. Videos angepasst und die gesamten Projektkarten mit den jeweiligen GitHub-Projekten verlinkt. Ausserdem habe ich das GitHub-Logo eingebaut und optisch an das Design meiner Website angepasst. Die Projektbeschreibungen wurden ebenfalls überarbeitet. Die Contact-Section sowie die Verbindung mit meiner E-Mail habe ich heute noch nicht umgesetzt und werde dies als Nächstes machen.
 
+### Planung 11.09.2026
+
+- [ ] Contact section erstellen
+- [ ] email mit contact verbinden, so dass man mich kontaktieren kann.
+- [ ] Contact section mit CSS schön machen
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
