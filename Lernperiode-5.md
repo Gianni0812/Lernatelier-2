@@ -55,9 +55,18 @@ Heute habe ich die Projektseite meines Portfolios weiter verbessert und gestalte
 
 ### Planung 11.09.2026
 
-- [ ] Contact section erstellen
-- [ ] email mit contact verbinden, so dass man mich kontaktieren kann.
-- [ ] Contact section mit CSS schön machen
+- [x] Contact section erstellen
+- [x] email mit contact verbinden, so dass man mich kontaktieren kann.
+- [x] Contact section mit CSS schön machen
+
+Heute habe ich die Contact-Section meines Portfolios erstellt und mit CSS an das restliche Design der Website angepasst. Anschliessend habe ich ein eigenes Backend mit Node.js und Express eingerichtet und das Kontaktformular damit verbunden. Über Nodemailer und ein Gmail-Konto können Nachrichten jetzt direkt an meine E-Mail gesendet werden. Zusätzlich erhält die Person, die das Formular ausfüllt, automatisch eine Bestätigungsmail mit ihrer Nachricht. Damit ist die Contact-Section jetzt sowohl optisch als auch technisch fertig und man kann mich direkt über mein Portfolio kontaktieren.
+
+### Planung 18.09.2026
+
+- [ ] Senden-Button mit einer Papierflieger-Animation erweitern
+- [ ] Einstellungen erstellen, mit Farben anpassung
+- [ ] Website veröffentlichen
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
