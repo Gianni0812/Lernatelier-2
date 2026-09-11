@@ -1,7 +1,7 @@
 # Lern-Periode 5 
 
 - Name: Gianluca Caruso
-- Zeitraum: 14.08.2026 bis tt.mm.2026
+- Zeitraum: 14.08.2026 bis 18.09.2026
 
 ## Grob-Planung
 
