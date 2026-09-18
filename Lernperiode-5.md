@@ -63,10 +63,12 @@ Heute habe ich die Contact-Section meines Portfolios erstellt und mit CSS an das
 
 ### Planung 18.09.2026
 
-- [ ] Senden-Button mit einer Papierflieger-Animation erweitern
-- [ ] Einstellungen erstellen, mit Farben anpassung
+- [x] Senden-Button mit einer Papierflieger-Animation erweitern
+- [x] Einstellungen erstellen, mit Farben anpassung
 - [ ] Website veröffentlichen
 
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+Ich bin mit meinem Portfolio insgesamt sehr zufrieden. Am Anfang lief vieles gut, später kamen jedoch immer mehr kleinere Probleme dazu, die ich lösen musste. Das war teilweise frustrierend, aber ich habe dadurch viel gelernt.
+
+Besonders beim Kontaktformular, beim Design und bei JavaScript gab es einige Schwierigkeiten. Rückblickend hätte ich manche Dinge einfacher planen können. Trotzdem funktioniert das Portfolio am Ende gut und ich bin mit dem Ergebnis zufrieden.
