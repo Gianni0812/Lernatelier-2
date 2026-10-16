@@ -25,7 +25,7 @@ Ich möchte zusammen mit meinem Kollegen ein Unity Projekt starten. Es soll ein 
 - [ ] Unity Projekt mit einander Verbinden
 - [ ] Player erstellen
 - [ ] Script für Player erstellen
-- [ ] Interagieren Script erstellen. 
+- [ ] UI erstellen
 
 ## Lernperiode Reflexion
 
