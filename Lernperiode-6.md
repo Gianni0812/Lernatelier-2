@@ -28,5 +28,12 @@ Ich möchte zusammen mit meinem Kollegen ein Unity Projekt starten. Es soll ein 
 - [x] UI/Crosshair erstellen
 
 Heute habe ich gemeinsam mit meinem Kollegen unser Unity-Escape-Room-Projekt eingerichtet. Zuerst habe ich ein GitHub-Repository erstellt und das Unity-Projekt damit verbunden, damit wir beide daran arbeiten können. Anschliessend haben wir die Synchronisierung getestet. Danach habe ich die Spielersteuerung mit einem Movement-Script umgesetzt und eine First-Person-Kamera programmiert, mit der man sich mithilfe der Maus umschauen kann. Ausserdem habe ich die Bewegung so angepasst, dass der Spieler in die Richtung läuft, in die er schaut. Zum Schluss habe ich ein Crosshair mit TextMeshPro erstellt und an dessen Positionierung in der Bildschirmmitte gearbeitet.
+
+- [ ] Player mit Blender ertsellen
+- [ ] Interagieren Script erstellen
+- [ ] Mit Schlüssel interagieren
+- [ ] Erster Raum erstellen
+
+
 ## Lernperiode Reflexion
 
