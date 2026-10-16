@@ -22,10 +22,11 @@ Ich möchte zusammen mit meinem Kollegen ein Unity Projekt starten. Es soll ein 
 ## Tagesplanungen
 
 ### Planung 14.08.2026
-- [ ] Unity Projekt mit einander Verbinden
-- [ ] Player erstellen
-- [ ] Script für Player erstellen
-- [ ] UI erstellen
+- [x] Unity Projekt mit einander Verbinden
+- [x] Player erstellen
+- [x] Script für Player erstellen
+- [x] UI/Crosshair erstellen
 
+Heute habe ich gemeinsam mit meinem Kollegen unser Unity-Escape-Room-Projekt eingerichtet. Zuerst habe ich ein GitHub-Repository erstellt und das Unity-Projekt damit verbunden, damit wir beide daran arbeiten können. Anschliessend haben wir die Synchronisierung getestet. Danach habe ich die Spielersteuerung mit einem Movement-Script umgesetzt und eine First-Person-Kamera programmiert, mit der man sich mithilfe der Maus umschauen kann. Ausserdem habe ich die Bewegung so angepasst, dass der Spieler in die Richtung läuft, in die er schaut. Zum Schluss habe ich ein Crosshair mit TextMeshPro erstellt und an dessen Positionierung in der Bildschirmmitte gearbeitet.
 ## Lernperiode Reflexion
 
