@@ -35,6 +35,14 @@ Heute habe ich gemeinsam mit meinem Kollegen unser Unity-Escape-Room-Projekt ein
 - [ ] Mit Schlüssel interagieren
 - [ ] Erster Raum erstellen
 
+Heute habe ich an unserem Unity-Escape-Room weitergearbeitet. Zuerst habe ich verschiedene Assets heruntergeladen und damit einen futuristischen Raum mit Wänden, Böden und Türen gebaut. Danach habe ich Probleme mit den Materialien behoben und die Beleuchtung angepasst. Anschliessend habe ich einen Roboter als Spieler eingefügt und mithilfe von KI Animationen erstellen lassen. Zum Schluss habe ich mich mit verschiedenen Fehlermeldungen und der Spielersteuerung beschäftigt.
+
+### Planung 13.11.2026
+- [ ] Player mit Animationen versehen
+- [ ] Tür mit Schlüssel öffnen
+- [ ] Schlüssel entfernen beim öffnen der Tür
+- [ ] Schlüssel Integration überarbeiten.
+
 
 ## Lernperiode Reflexion
 
